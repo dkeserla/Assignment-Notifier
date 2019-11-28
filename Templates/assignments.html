@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignments</title>
+</head>
+<body>
+	<h3><u>Assignments</u></h3>
+	{% for course, assignments in class_assignments.items() %}
+		<p><font size = "3"><b>{{course}}</b></font></p>
+			{% for assignnment in assignments %}
+				<p><font size = "2">{{assignnment}}</b></font></p>
+			{% endfor %}
+	{% endfor %}
+	<p></p>
+</body>
+</html>
