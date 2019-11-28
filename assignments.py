@@ -14,13 +14,11 @@ def get_assignments(assignments):
                 nums = re.findall('[0-9.]+', str(assign.find_all('td')[4]))
                 assignment_data.append(Assignment(a.attrs['title'], nums))
         class_assignments[class_string] = assignment_data
-
     # for course in class_assignments:
     #     print(course)
     #     for assignment in class_assignments[course]:
     #         print('\t' + str(assignment))
     #     print()
-
     return class_assignments
 
 def clean_string(class_string):
@@ -38,7 +36,7 @@ class Assignment:
 
     def __init__(self, title_vals, grade):
         self.classwork, self.category, self.due_date = self.parse_elements(title_vals)
-        self.grade = 'not put in yet' if len(grade) == 0 else grade[0]
+        self.grade = 'not put in yet' if len(grade) == 0 else "{:.2f}".format(float(grade[0]))
 
     def parse_elements(self, title_vals):
         assignment_details = []
