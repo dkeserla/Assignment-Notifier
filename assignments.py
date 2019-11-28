@@ -15,7 +15,7 @@ def get_assignments(assignments):
             list = assign.find_all('a')
             for a in list:
                 nums = re.findall('[0-9.]+', str(assign.find_all('td')[4]))
-                total = nums = re.findall('[0-9.]+', str(assign.find_all('td')[5]))
+                total = re.findall('[0-9.]+', str(assign.find_all('td')[5]))
                 assignment_data.append(Assignment(a.attrs['title'], nums, total))
         class_assignments[course] = assignment_data
     # for course in class_assignments:
@@ -66,4 +66,4 @@ class Assignment:
 
     def __str__(self):
         out = 'classwork is ' + self.classwork + ', category is ' + self.category + ', due date is ' + self.due_date + ', and your grade is ' + self.grade
-        return out + " / " + self.total_points if self.total_points != "" else out
+        return out + "/" + self.total_points if self.total_points != "" else out
