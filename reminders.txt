@@ -9,25 +9,6 @@ Statistics AP
 	classwork is Topic 2 Review Cards, category is Tests and Projects, due date is Date: 09/24/2019, and your grade is not put in yet
 	classwork is Topic 2 EXAM, category is Tests and Projects, due date is Date: 09/24/2019, and your grade is not put in yet
 	classwork is Topic 2 Review, category is Homework-Daily Work, due date is Date: 09/24/2019, and your grade is not put in yet
-	classwork is Kahn Academy Topic 2, category is Homework-Daily Work, due date is Date: 09/20/2019, and your grade is not put in yet
-	classwork is Topic 2 Quiz, category is Quizzes, due date is Date: 09/18/2019, and your grade is not put in yet
-	classwork is Homework 2.3, category is Homework-Daily Work, due date is Date: 09/18/2019, and your grade is not put in yet
-	classwork is Homework 2.1.2, category is Homework-Daily Work, due date is Date: 09/16/2019, and your grade is not put in yet
-	classwork is Homework 2.1, category is Homework-Daily Work, due date is Date: 09/12/2019, and your grade is not put in yet
-	classwork is Topic 1 Test Corrections, category is Tests and Projects, due date is Date: 09/06/2019, and your grade is not put in yet
-	classwork is Topic 1 Review Cards, category is Tests and Projects, due date is Date: 09/06/2019, and your grade is not put in yet
-	classwork is Topic 1 EXAM, category is Tests and Projects, due date is Date: 09/06/2019, and your grade is not put in yet
-	classwork is Topic 1 Review, category is Homework-Daily Work, due date is Date: 09/06/2019, and your grade is not put in yet
-	classwork is Kahn Academy Topic 1, category is Quizzes, due date is Date: 09/04/2019, and your grade is not put in yet
-	classwork is Topic 1 Experiment, category is Homework-Daily Work, due date is Date: 08/30/2019, and your grade is not put in yet
-	classwork is Topic 1 Quiz, category is Quizzes, due date is Date: 08/28/2019, and your grade is not put in yet
-	classwork is Homework 1.3, category is Homework-Daily Work, due date is Date: 08/28/2019, and your grade is not put in yet
-	classwork is Homework 1.2, category is Homework-Daily Work, due date is Date: 08/26/2019, and your grade is not put in yet
-	classwork is Homework 1.1, category is Homework-Daily Work, due date is Date: 08/22/2019, and your grade is 90.00
-	classwork is Daily Work 1.0, category is Homework-Daily Work, due date is Date: 08/20/2019, and your grade is 100.0
-	classwork is Mini-ME, category is Homework-Daily Work, due date is Date: 08/20/2019, and your grade is 100.0
-	classwork is Grading Policy Acknowledgement, category is Homework-Daily Work, due date is Date: 08/16/2019, and your grade is not put in yet
-	classwork is Syllabus Acknowledgement, category is Homework-Daily Work, due date is Date: 08/16/2019, and your grade is not put in yet
 
 Chemistry AP
 	classwork is Website Link Works, category is Daily grade-assignments, due date is Date: 08/28/2019, and your grade is 100.0
